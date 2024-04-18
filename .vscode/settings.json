@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ch32v_max6675.h": "c",
+        "ch32v20x_gpio.h": "c",
+        "wiz_spiconf.h": "c",
+        "ch32v20x.h": "c",
+        "usb_serial.h": "c",
+        "font_double_uc.h": "c",
+        "ssd1306_ch32v.h": "c"
+    }
+}
